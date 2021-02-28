@@ -1,11 +1,10 @@
-### Olá, meu nome é Denilson e Bem Vindo ao meu Git Hub ![simbolo1](https://img.icons8.com/wired/35/000000/the-flash-sign.png) 
+### Olá e Bem Vindo ao meu Git Hub !
 --------------------------------------
 ## ![simbolo2](https://img.icons8.com/offices/20/000000/batman-old.png) Um pouco sobre mim ![simbolo2](https://img.icons8.com/offices/20/000000/batman-old.png)
-* ![simbolo3](https://img.icons8.com/doodle/15/000000/goal.png) Sou Desenvolvedor Java JR;
-* ![simbolo3](https://img.icons8.com/doodle/15/000000/bookmark-ribbon.png) Estou cursando o BootCamp da Generation Brazil;
-*  
+* :wrench: Iniciando em Desenvolvimento Fullstack (java);
+* :clock12: Me dedicando ao BootCamp da Generation Brazil;
+* :lock: Sistema da Informação 7/8;
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhenSouza)](https://github.com/DhenSouza/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhenSouza&theme=midnight-purple&show_icons=true)
 
 # ![simbolo4](https://img.icons8.com/offices/30/000000/high-priority.png) EM DESENVOLVIMENTO !!
