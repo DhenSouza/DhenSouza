@@ -23,6 +23,6 @@
 
 ## Git Hub Status
 <div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhenSouza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>	
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhenSouza&theme=midnight-purple&show_icons=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhenSouza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>	
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DhenSouza&theme=midnight-purple&show_icons=true" />
 </div>
