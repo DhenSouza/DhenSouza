@@ -1,4 +1,4 @@
-### Olá e Bem Vindo ao meu Git Hub ! <img src="https://img.icons8.com/nolan/50/github.png"/>
+### Olá e Bem Vindo ao meu Git Hub !
 --------------------------------------
 ## ![simbolo2](https://img.icons8.com/offices/20/000000/batman-old.png) Sobre mim ![simbolo2](https://img.icons8.com/offices/20/000000/batman-old.png)
 * :wrench: Iniciante em Desenvolvimento **_Fullstack_** (java);
