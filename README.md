@@ -11,9 +11,7 @@
 <p align="left">
 <img width="30" height="30" src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>
 <img width="30" height="30" src="https://img.icons8.com/nolan/40/angularjs.png"/>
-<img width="30" height="30" src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>
 <img width="30" height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" /></code>
-<img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
 <img width="30" height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"/></code>
 </p>
 
