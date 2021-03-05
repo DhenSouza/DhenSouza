@@ -1,7 +1,7 @@
 ### Olá e Bem Vindo ao meu Git Hub !
 --------------------------------------
 ## ![simbolo2](https://img.icons8.com/offices/20/000000/batman-old.png) Sobre mim ![simbolo2](https://img.icons8.com/offices/20/000000/batman-old.png)
-* :wrench: Iniciante em Desenvolvimento **_Fullstack_** (java);
+* :wrench: Iniciante na carreira de Desenvolvedor **_Fullstack_** (java);
 * :clock12: Me dedicando ao BootCamp da **_Generation_** **_Brazil_**;
 * :lock: Sistema da Informação 7/8; 
 
