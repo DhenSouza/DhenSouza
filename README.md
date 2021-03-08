@@ -7,7 +7,7 @@
 
 ## ![simbolo3](https://img.icons8.com/material-two-tone/24/000000/geography--v2.png) Ferramentas de Desenvolvimento ![simbolo3](https://img.icons8.com/material-two-tone/24/000000/geography--v2.png)
 
-<img align="right" width="356" height="200" src=https://github.com/DhenSouza/DhenSouza/blob/DhenSouza-patch-1/tenor.gif>
+<img align="right" width="356" height="200" src=https://github.com/DhenSouza/DhenSouza/blob/main/tenor.gif>
 <p align="left">
 <img width="30" height="30" src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>
 <img width="30" height="30" src="https://img.icons8.com/nolan/40/angularjs.png"/>
