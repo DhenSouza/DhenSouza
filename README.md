@@ -23,8 +23,10 @@
 </p>
 
 <h2 align="center"> Hobbies </h2>
-* <img src="https://img.icons8.com/cotton/20/000000/controller--v2.png"/> Games;
-* <img src="https://img.icons8.com/color/20/000000/book.png"/> Livros;
+  <ul>
+  <li> <img src="https://img.icons8.com/cotton/20/000000/controller--v2.png"/> Games;</li>
+  <li><img src="https://img.icons8.com/color/20/000000/book.png"/> Livros;</li>
+  </ul>
 
 <h2 align="center"> Git Hub Status </h2>
 <div align="left" >
