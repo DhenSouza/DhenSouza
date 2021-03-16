@@ -1,9 +1,14 @@
 <h1 align="center">Olá e Bem Vindo ao meu Git Hub !</h1>
 
 <h2 align="center"><img src="https://img.icons8.com/offices/20/000000/batman-old.png"> Sobre mim <img src="https://img.icons8.com/offices/20/000000/batman-old.png"></h2>
-* :wrench: Iniciante na carreira de Desenvolvedor **_Fullstack_** (java);
-* :clock12: Me dedicando ao BootCamp da **_Generation_** **_Brazil_**;
-* :lock: Sistema da Informação 7/8; 
+<ul>
+  <li>:wrench: Iniciante na carreira de Desenvolvedor **_Fullstack_** (java);</li>
+  <li>:clock12: Me dedicando ao BootCamp da **_Generation_** **_Brazil_**;</li>
+  <li> :lock: Sistema da Informação 7/8; </li>
+  </ul>
+* 
+* 
+* 
 
 ## ![simbolo3](https://img.icons8.com/material-two-tone/24/000000/geography--v2.png) Ferramentas de Desenvolvimento ![simbolo3](https://img.icons8.com/material-two-tone/24/000000/geography--v2.png)
 
