@@ -1,5 +1,5 @@
 <h1 align="center">Olá e Bem Vindo ao meu Git Hub !</h1>
---------------------------------------
+
 ## ![simbolo2](https://img.icons8.com/offices/20/000000/batman-old.png) Sobre mim ![simbolo2](https://img.icons8.com/offices/20/000000/batman-old.png)
 * :wrench: Iniciante na carreira de Desenvolvedor **_Fullstack_** (java);
 * :clock12: Me dedicando ao BootCamp da **_Generation_** **_Brazil_**;
