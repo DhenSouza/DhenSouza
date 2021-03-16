@@ -6,9 +6,6 @@
   <li>:clock12: Me dedicando ao BootCamp da **_Generation_** **_Brazil_**;</li>
   <li> :lock: Sistema da Informação 7/8; </li>
   </ul>
-* 
-* 
-* 
 
 ## ![simbolo3](https://img.icons8.com/material-two-tone/24/000000/geography--v2.png) Ferramentas de Desenvolvimento ![simbolo3](https://img.icons8.com/material-two-tone/24/000000/geography--v2.png)
 
