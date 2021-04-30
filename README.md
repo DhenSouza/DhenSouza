@@ -2,8 +2,8 @@
 
 <h2 align="center"><img src="https://img.icons8.com/offices/20/000000/batman-old.png"> Sobre mim <img src="https://img.icons8.com/offices/20/000000/batman-old.png"></h2>
 <ul>
-  <li>:wrench: Iniciante na carreira de Desenvolvedor **_Fullstack_** (java);</li>
-  <li>:clock12: Me dedicando ao BootCamp da **_Generation_** **_Brazil_**;</li>
+  <li>:wrench: Iniciante na carreira de Desenvolvedor Fullstack (java);</li>
+  <li>Graduado Desenvolvedor Web java fullstack pela Generation Brasil;</li>
   <li> :lock: Sistema da Informação 7/8; </li>
   </ul>
 
