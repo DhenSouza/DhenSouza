@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Denilson</h1>
 <h3 align="center">Dedicated to programming with a dash of Front-end and a lot of Back-End</h3>
 
+<p align="center">
+  <img src="https://github.com/DhenSouza/DhenSouza/raw/main/assets/header-github.gif" alt="Hi, I'm Denilson">
+</p>
+
+<!--
+How to make the bio gif ?
+Thanks to [matyo91](https://github.com/matyo91)
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
+
 - 🔭 I’m currently working on **JR Developer Analyst**
 
 - 🌱 I’m currently learning **Java, Struts 2, Domain-Driver Design, Agile software development**
@@ -22,7 +35,6 @@
 </details>
 
 <h3 align="left">My Github Statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhensouza&show_icons=true&locale=en&layout=compact" alt="dhensouza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhensouza&show_icons=true&locale=en" alt="dhensouza" /></p>
 
