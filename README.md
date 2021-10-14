@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Denilson</h1>
-<h3 align="center">Dedicated to programming with a dash of Front-end and a lot of Back-End</h3>
-
 <p align="center">
   <img src="https://github.com/DhenSouza/DhenSouza/raw/main/assets/header-github.gif" alt="Hi, I'm Denilson">
 </p>
