@@ -61,10 +61,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/denilson-souza" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/denilson_contato" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/></a>
-  <a href="https://www.leetcode.com/dhensouza" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a>
   <a href="https://discord.com/users/Denilson_S#0699" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"/></a>
-  <a href="https://twitter.com/MrDhenI" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/MrDhenI.svg?style=social&label=Follow%20%40MrDhenI"/></a>
 </p>
 
 ---
